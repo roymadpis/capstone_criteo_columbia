@@ -9,4 +9,4 @@ Poster summarizing the work: [F24_Criteo_Image_Zero_Shot_Segmentation_Poster.ppt
 <img src="[https://example.com/path/to/image.png](https://github.com/user-attachments/files/18083522/F24_Criteo_Image_Zero_Shot_Segmentation_Poster.pptx.pdf)" alt="Alt text">
 https://github.com/user-attachments/files/18083522/F24_Criteo_Image_Zero_Shot_Segmentation_Poster.pptx.pdf
 
-![Description of Image](capstone_criteo_columbia/Brand_prediction_poster.png)
+![Description of Image](Brand_prediction_poster.png)
