@@ -5,7 +5,7 @@ Due to the confidentiality of Criteo’s data, open-source datasets focused on f
 Brand enrichment contributes tens of millions USD to Criteo’s revenue each year. Improving the model’s coverage and/or accuracy performance could increase their revenue by 25%.
 
 
-Link to the final report: https://docs.google.com/document/d/1DgYAIO945XX4XblKokCUWvQdzF6yWko_aNkJm4LrlgI/edit?usp=sharing
+**Link to the final report:** https://docs.google.com/document/d/1DgYAIO945XX4XblKokCUWvQdzF6yWko_aNkJm4LrlgI/edit?usp=sharing
 
 ![Capstone Poster](Brand_prediction_poster.png)
 
