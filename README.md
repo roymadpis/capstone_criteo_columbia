@@ -5,4 +5,5 @@ Due to the confidentiality of Criteo’s data, open-source datasets focused on f
 Link to the final report: https://docs.google.com/document/d/1DgYAIO945XX4XblKokCUWvQdzF6yWko_aNkJm4LrlgI/edit?usp=sharing
 
 ![Capstone Poster](Brand_prediction_poster.png)
+
 Poster summarizing the work: [F24_Criteo_Image_Zero_Shot_Segmentation_Poster.pptx.pdf](https://github.com/user-attachments/files/18083522/F24_Criteo_Image_Zero_Shot_Segmentation_Poster.pptx.pdf)
